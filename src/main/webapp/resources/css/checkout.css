@@ -1,0 +1,58 @@
+footer {
+	background-color: lightgray;
+	border: solid 1px black;
+	font-family: 'Times New Roman', serif;
+	padding: 10px;
+}
+
+footer {
+	padding: 10px;
+	border-radius: 3px;
+}
+
+body {
+	font-family: Segoe UI;
+	font-size: 14px;
+	background-color: gray;
+}
+
+html,body {
+	padding: 0;
+	margin: 0;
+}
+
+#main {
+	border: solid 1px #ccc;
+	border-radius: 5px;
+	color: #202020;
+	margin: 20px 0;
+	padding: 5px;
+}
+
+#featProds {
+	padding: 2px;
+	width: 300px;
+}
+
+.container {
+	width: 989px;
+	margin: auto;
+	background-color: white;
+	padding: 5px;
+}
+
+#billingFormm {
+	padding: 5px;
+}
+
+#addressTitle {
+	padding: 0px;
+}
+
+hr {
+	border: none;
+	height: 1px;
+	/* Set the hr color */
+	color: #333; /* old IE */
+	background-color: #333; /* Modern Browsers */
+}
